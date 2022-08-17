@@ -1,0 +1,32 @@
+
+/* body{
+  background-color: darkorange;
+} */
+
+
+h1{
+    outline-style: dotted;
+    outline-style: dashed;
+    outline-style: groove;
+    outline-style: solid;
+    /* outline-style: none; */
+    outline-color: green;
+    outline-width: thick;
+    outline: 1px solid blue;
+    outline-offset: 5px;
+    border: 1px solid red;
+  }
+  
+  input{
+    outline: 2px solid orange;
+    outline: none;
+  }
+  
+  textarea{
+    outline: none;
+  }
+  
+  button{
+    outline-style: dotted;
+    outline-color: green;
+  }
