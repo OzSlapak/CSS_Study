@@ -1,0 +1,38 @@
+a{
+    display: block;
+    text-decoration: none;
+  }
+  
+  
+  /* unvisited links */
+  /* a:link{
+    color: red;
+  } */
+  
+  /* visited links */
+  /* a:visited{
+    color: green;
+  } */
+  
+  
+  /* moves over the link */
+  /* a:hover{
+    background-color: dodgerblue;
+    color: white
+  } */
+  
+  /* when you press down the mouse on the link */
+  /* a:active{
+    background-color: orange;
+    color: red;
+  } */
+  
+  
+  div a:hover{
+    background-color: dodgerblue;
+    color: white;
+  }
+  
+  
+  
+  
